@@ -1,8 +1,8 @@
 # Faceting
 
-SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
+SolrNet supports [faceted searching](https://cwiki.apache.org/wiki/display/solr/Faceting).
 
-There are basically three kinds of facet queries:
+There are basically three kinds of facet queries222:
 
  1. querying by field
  1. date facets
